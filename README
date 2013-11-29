@@ -1,27 +1,3 @@
-This is a mirror of http://www.vim.org/scripts/script.php?script_id=4579
+This script has been renamed to keepcomment.vim.
 
-<A-u> comment line(s)
-<A-o> uncomment line(s)
-<A-i> comment line(s) while keep coding
-        for trying new code line
-        but if you want code line(s) keep intact
-      
-Visual blocking or numbering in normal mode 
-will work all the same way.
-
-Currently 
-for 
-        python, Makefile, snippet, cpp, javascript, 
-        matlab, tex, txt, anonymous, c, html
-
-You might feel free to add other comment string and filetype
-by modifying s:CommentStringMap
-and sure you can change key map to your favorite.
-
-
-If you're looking forward most mature and complete plugin,
-you should ckeck [The NERD Commenter]
-
-http://www.vim.org/scripts/script.php?script_id=1218
-
-
+http://github.com/vim-scripts/keepcomment.vim
